@@ -1,0 +1,13 @@
+* {
+	font-family: sans-serif;
+}
+input {
+	width: 100%;
+	font-size: 2em;
+	padding: 0.2em;
+	margin: 0.2em;
+}
+div {
+	font-size: 2em;
+	padding: 0.4em;
+}
